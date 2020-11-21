@@ -1,0 +1,27 @@
+body{
+  height: 100vh;
+
+  background-image: url("../img/background.jpg");
+}
+
+head{
+  margin: 20px;
+  width: 25px;
+  background-image: url("../img/banner.jpg");
+  background-repeat: no-repeat;
+
+  background-size: cover;
+  background-position: center 75%;
+}
+
+p{
+  color: red;
+  border: 10px black solid;
+  border-radius: 5px;
+  border-top-left-radius: 12px;
+  padding: 3px;
+  margin: 7px;
+  font-family: cursive, serif; helvetica;
+  font-weight: 600;
+  text-align: center
+}
